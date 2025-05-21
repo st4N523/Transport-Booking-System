@@ -1,0 +1,3 @@
+Booking ID      Transportation ID    Type       From       To         Date       Time       Price      Ticket Amount   Status    
+--------------- -------------------- ---------- ---------- ---------- ---------- ---------- ---------- --------------- ----------
+B1747850797512  B002                 BUS        BP         MLK        8/2/2025   12:00PM    RM18       1               Pending   
